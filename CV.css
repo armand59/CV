@@ -1,12 +1,13 @@
 #background
 {
-    background-color: #D3D3D3 ;
+
 }
 
 #cadrehaut
 {
     background-color: #EA2D26;
     height: 200px;
+    width: 1567px;
 }
 
 #contact
@@ -180,7 +181,7 @@
 #bloccomp
 {
     background-color: #EA2D26;
-    height: 1500px;
+    height: 688px;
     width: 400px;
     margin-top: -20px;
     display: inline-block;
