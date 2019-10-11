@@ -1,0 +1,207 @@
+#background
+{
+    background-color: #D3D3D3 ;
+}
+
+#cadrehaut
+{
+    background-color: #EA2D26;
+    height: 200px;
+}
+
+#contact
+{
+    background-color: #EA2D26;
+    width: 70px;
+    height: 701px;
+    margin-top: 0px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#infosup
+{
+    background-color: #EA2D26;
+    width: 386px;
+    height: 699px;
+    margin-top: 1px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#Nom
+{
+    color: #FFFEFF;
+    font-size: 80px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: -1px;
+}
+
+
+
+#dev
+{
+    color: #FFFEFF;
+    font-size: 80px;
+    position: absolute;
+    margin-left: 740px;
+    margin-top: 139px;
+}
+
+#info
+{
+    color: #FFFEFF;
+   padding-left: 135px;
+    padding-top: 32px;
+    height: 50px;
+    width: 500px;
+}
+
+#age
+{
+    color: #FFFEFF;
+    padding-left: 60px;
+    padding-top: 20px;
+    height: 100px;
+    text-align: center;
+}
+
+#github
+{
+    height: 60px;
+    padding-left: 5px;
+}
+
+#linkedin
+{
+    height: 60px;
+    padding-left: 5px;
+    padding-top: 20px;
+}
+
+#facebook
+{
+    height: 60px;
+    padding-left:5px;
+    padding-top: 20px;
+}
+
+#mail
+{
+    height: 60px;
+    padding-left: 5px;
+    padding-top: 20px;
+}
+
+#Nom
+{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#dev
+{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#blocexp
+{
+    background-color: #EA2D26;
+    height: 701px;
+    width: 1250px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: -4px;
+
+}
+
+#titleexp
+{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #FFFEFF;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 62px;
+
+}
+
+.bloc1
+{
+    display: inline-block;
+
+}
+
+.date
+{
+    display: inline-block;
+    vertical-align: top;
+    color: #FFFEFF;
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+.blocdroite
+{
+    display: inline-block;
+}
+
+.lieu
+{
+    display: inline-block;
+    margin-left: 15px;
+    color: #FFFEFF;
+    font-size: 25px;
+    vertical-align: center;
+
+}
+
+.tâche
+{
+
+    margin-left: 15px;
+    color: #D3D3D3;
+    font-size: 20px;
+    vertical-align: bottom;
+    margin-top: 20px;
+}
+
+#dialogue
+{
+    padding-top: 34px;
+    padding-left: 10px;
+    background-color: #EA2D26;
+    color: #FFFEFF;
+    font-size: 16px;
+    width: 1px;
+}
+
+#bloccomp
+{
+    background-color: #EA2D26;
+    height: 1500px;
+    width: 500px;
+    margin-top: -20px;
+
+}
+#ct
+
+{
+    color: #FFFEFF;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px
+;
+}
+#listecomp
+{
+    color: #D3D3D3;
+    font-size: 30px;
+    padding-top: 50px;
+    margin-left: 25px;
+
+
+}
+
+
+
