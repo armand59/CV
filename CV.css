@@ -17,6 +17,7 @@
     margin-top: 0px;
     display: inline-block;
     vertical-align: middle;
+    margin-left: 0px;
 }
 
 #infosup
@@ -71,28 +72,28 @@
 #github
 {
     height: 100px;
-    padding-left: 45px;
+    padding-left: 85px;
     padding-top: 135px;
 }
 
 #linkedin
 {
     height: 100px;
-    padding-left: 45px;
+    padding-left: 85px;
     padding-top: 35px;
 }
 
 #facebook
 {
     height: 100px;
-    padding-left:45px;
+    padding-left:85px;
     padding-top: 35px;
 }
 
 #mail
 {
     height: 100px;
-    padding-left: 45px;
+    padding-left: 85px;
     padding-top: 35px;
 }
 
@@ -183,6 +184,7 @@
     width: 400px;
     margin-top: -20px;
     display: inline-block;
+    vertical-align: middle;
 
 }
 #ct
@@ -207,15 +209,15 @@
 #competencetech
 {
     color: #FFFEFF;
-    padding-top: 50px;
+    padding-top: 40px;
     padding-left: 20px;
 }
 
 #informatik
 {
     color: #FFFEFF;
-    padding-top: 50px;
-    padding-left: 100px;
+    padding-top: 15px;
+    padding-left: 40px;
     font-size: 20px;
 }
 
@@ -247,11 +249,30 @@
 {
     background-color: #EA2D26;
     height: 701px;
-    width: 1353px;
-    display: inline-block;
-    vertical-align: middle;
-    margin-left:-20px;
+    width: 1181px;
+
+    position: absolute;
+    margin-left:387px;
+    margin-top: -671px;
 }
+
+#for
+{
+    color: #FFFEFF;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+#blocformation
+{
+    color: #D3D3D3;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: 25px;
+    position: absolute;
+}
+
 
 
 
