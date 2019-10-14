@@ -249,7 +249,7 @@
 #blocbas2
 {
     background-color: #EA2D26;
-    height: 701px;
+    height: 1118px;
     width: 1344px;
 
     position: absolute;
@@ -287,10 +287,17 @@
 
 #message
 {
-    margin-top: 455px;
+    margin-top: 330px;
     position: absolute;
     background-color: #EA2D26;
     color: #FFFEFF;
+    margin-left: -223px;
+}
+
+#Titlecontact
+
+{
+    text-align: center;
 }
 
 
