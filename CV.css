@@ -217,7 +217,7 @@
 #informatik
 {
     color: #FFFEFF;
-    padding-top: 15px;
+    padding-top: 13px;
     padding-left: 40px;
     font-size: 20px;
 }
@@ -250,11 +250,11 @@
 {
     background-color: #EA2D26;
     height: 701px;
-    width: 1181px;
+    width: 1344px;
 
     position: absolute;
-    margin-left:387px;
-    margin-top: -671px;
+    margin-left:223px;
+    margin-top: -670px;
 }
 
 #for
@@ -274,6 +274,24 @@
     position: absolute;
 }
 
+#formation
+
+{
+    position: absolute;
+    margin-top: -338px;
+    margin-left: 575px;
+    height: 500px;
+    width: 646px;
+
+}
+
+#message
+{
+    margin-top: 455px;
+    position: absolute;
+    background-color: #EA2D26;
+    color: #FFFEFF;
+}
 
 
 
